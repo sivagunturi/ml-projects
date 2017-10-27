@@ -1,2 +1,2 @@
 # ml-projects
-Udacity ML projects
+ML projects
